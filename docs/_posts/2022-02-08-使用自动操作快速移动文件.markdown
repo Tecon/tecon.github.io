@@ -1,8 +1,9 @@
-layout: page
-title: "使用自动操作完成快速移动文件"
-permalink: /利其器/
-
-## 使用自动操作完成快速移动文件
+---
+layout: post
+title:  "使用自动操作快速移动文件"
+date:  2022-02-08 17:56:49 +0800
+categories: 利其器
+---
 
 mac下面每次要移动文件，都要多打开个访达窗口，然后拉过去，通过自动操作写了个流程，在需要移动的文件上右键调用快速操作中的“移动文件”即可弹窗，选中目的文件夹，可以直接移动文件，对该过程做个记录
 
@@ -40,7 +41,7 @@ done
 
 整体流程如下
 
-![image-20220207182321812](/Users/haha/Pictures/typora/image-20220207182321812.png)
+![image-20220207182321812](https://raw.githubusercontent.com/tecon/img-cdn/master/2022/02/upgit_20220208_1644324177.png)
 
 
 
