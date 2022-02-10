@@ -80,10 +80,11 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://raw.githubusercontent.com/Tecon/img-cdn/master/blog"
+# img_cdn: "https://raw.githubusercontent.com/Tecon/img-cdn/master"
+img_cdn: "https://cdn.jsdelivr.net/gh/tecon/img-cdn@master"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/header_cir.jpg"
+avatar: "/blog/header_cir.jpg"
 
 # boolean type, the global switch for ToC in posts.
 toc: true
