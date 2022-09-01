@@ -87,7 +87,7 @@ img_cdn: "https://cdn.jsdelivr.net/gh/tecon/img-cdn@master"
 avatar: "/blog/header_cir.jpg"
 
 # boolean type, the global switch for ToC in posts.
-toc: true
+toc: false
 
 comments:
   active:         # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
