@@ -3,8 +3,8 @@ title:  "Design Pattern Overview"
 author:
   name: liuhe
   link: https://tecon.github.io
-date:  2022-09-01 07:26:49 +0800
-categories: [work, 利其器, design pattern]
+date:  2022-09-01 01:16:49 +0800
+categories: [work, 利其器]
 tags: [design pattern]
 toc: false
 ---
@@ -73,6 +73,6 @@ toc: false
 
 [Java Design Patterns](https://java-design-patterns.com/)
 
-[强烈推荐]()
+[强烈推荐.提取码:o632](https://pan.baidu.com/s/1rqWuBDg5l9h-IRKUWOleJw)
 
 [demo code@github]()
